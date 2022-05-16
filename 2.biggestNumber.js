@@ -8,3 +8,5 @@ const biggestNumber = (a, b, c) => {
     return c;
   }
 };
+
+console.log(biggestNumber(1, 4, 1));
